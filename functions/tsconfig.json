@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "build",
+    "sourceMap": true,
+    "target": "es2017",
+    "strict": true,                           /* Enable all strict type-checking options. */
+    "noImplicitAny": true, 
+    "moduleResolution": "node",  
+    "esModuleInterop": true,     
+    "resolveJsonModule": true,
+    "allowJs": true
+  },
+  "compileOnSave": true,
+  "include": [
+    "./**/*",
+    ".js"
+  ],
+  "exclude": [
+    "./build/*"
+  ]  
+}
