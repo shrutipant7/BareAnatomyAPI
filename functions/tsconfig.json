@@ -6,7 +6,7 @@
     "outDir": "build",
     "sourceMap": true,
     "target": "es2017",
-    "strict": true,                           /* Enable all strict type-checking options. */
+    "strict": true,                           
     "noImplicitAny": true, 
     "moduleResolution": "node",  
     "esModuleInterop": true,     
